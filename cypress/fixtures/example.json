@@ -1,12 +1,5 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes",
-
-   "form_name": "testing AI",
-   "form_gender": "Female",
-   "productName": ["Blackberry","Nokia Edge"]
-
-
+  "name": "demo example to show how to use test data",
+  "email": "hello@cypress.io"
 
 }
